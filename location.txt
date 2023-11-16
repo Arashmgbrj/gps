@@ -1,0 +1,8 @@
+
+Latitude: 33.934478
+Longitude: 48.713127
+Altitude: 0.00
+Date: 3/27/2022
+Time: 14:20:33.00
+
+
